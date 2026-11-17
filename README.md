@@ -1,6 +1,6 @@
 # Hi, I'm Georgios Elafros (gelafros) 👋
 
-Backend-focused software developer in training at **[Zone01 Athens](https://zone01.gr)**, a peer-to-peer, project-based software engineering school. With a Master's in **Educational Leadership, Management and Emerging Technologies** and three years as a primary school teacher, I combine clear communication and structured problem-solving with hands-on systems and backend engineering.
+Backend-focused software developer in training at **[Zone01 Athens](https://zone01.gr)**, a peer-to-peer, project-based software engineering school. With a Master's in **Educational Leadership, Management and Emerging Technologies** and four years as a primary school teacher, I combine clear communication and structured problem-solving with hands-on systems and backend engineering.
 
 ## Tech & Engineering Focus
 
